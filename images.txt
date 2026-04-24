@@ -1,2 +1,2 @@
-hermes-agent
-openclaw
+NousResearch/hermes-agent
+openclaw/openclaw
